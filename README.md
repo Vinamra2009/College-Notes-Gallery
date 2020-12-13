@@ -74,4 +74,4 @@ Fashion Responsive Slider
 College Notes Gallery is released under the MIT License
 
 
-Check for changes navbar
+Check for changes navbar - field
